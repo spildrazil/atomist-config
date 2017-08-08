@@ -12,5 +12,6 @@
             "Spring.+",
             "Travis.+"
         ]
-    }
+    },
+    "metricsUrl": "https://webhook-staging.atomist.services/atomist/fingerprints"
 }
